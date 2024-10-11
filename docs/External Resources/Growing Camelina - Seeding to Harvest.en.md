@@ -23,7 +23,7 @@ Renewable diesel, derived from camelina oil, is nearly a drop-in replacement for
 
 ##### Drought Tolerance and Revenue Potential
 
-One of camelina's standout features is its impressive drought tolerance. This characteristic was notably observed in Montana during the drought of 2021, when camelina outperformed other crops with a yield potential of up to 2,000 pounds per acre. Farmers also benefit from camelina’s ability to replace fallow or idle acres in crop rotations, thereby providing an additional revenue source. The oil content in each harvest makes up about 38-42% of the total yield, with the remaining biomass usable as livestock feed.
+One of camelina's standout features is its impressive drought tolerance. This characteristic was notably observed in Montana during the drought of 2021, when camelina outperformed other crops with a yield potential of up to 2 tonnes per hectare. Farmers also benefit from camelina’s ability to replace fallow or idle acres in crop rotations, thereby providing an additional revenue source. The oil content in each harvest makes up about 38-42% of the total yield, with the remaining biomass usable as livestock feed.
 
 #### Sustainable Oils: The Catalyst for Camelina Cultivation
 
@@ -51,7 +51,7 @@ In terms of soil preparation, farmers typically use vertical tillage tools to in
 
 ##### Fertilization
 
-Fertilizer application plays a vital role in the health and yield of camelina. Early signs of nitrogen deficiency in the crop can impact its development. A balanced application of around 20 pounds of nitrogen at the time of seeding is typical, although subsequent applications may be necessary based on crop conditions.
+Fertilizer application plays a vital role in the health and yield of camelina. Early signs of nitrogen deficiency in the crop can impact its development. A balanced application of around 10 kg of nitrogen at the time of seeding is typical, although subsequent applications may be necessary based on crop conditions.
 
 ##### Harvest
 

@@ -28,7 +28,7 @@ Camelina is an advantageous crop choice for farmers seeking profitable, sustaina
 
 ## Support and Profitability
 
-- **Market Opportunities:** Growers can secure contracts at fixed prices per pound, ensuring a guaranteed market and stable income.
+- **Market Opportunities:** Growers can secure contracts at fixed prices per tonnes, ensuring a guaranteed market and stable income.
 - **Agronomic Support:** Partnerships may include provided planting seeds and close collaboration from pre-planting through harvest to maximize yield and profitability.
 
 **Interested in Growing Camelina?** Consider integrating camelina into your farming operations to contribute to a cleaner energy future and boost your farm's profitability.

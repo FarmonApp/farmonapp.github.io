@@ -52,7 +52,7 @@ Understanding the production process of camelina from seed to renewable diesel i
 
 #### Drought Resistance and Resilience
 
-One of the standout features of camelina is its remarkable drought tolerance. Even with minimal rainfall, the crop can achieve yields of 1,000 to 1,200 pounds per acre. This resilience is attributed to its growth pattern; it starts as a rosette and develops a deep taproot, allowing it to access moisture from deeper soil layers.
+One of the standout features of camelina is its remarkable drought tolerance. Even with minimal rainfall, the crop can achieve yields of 1 tonne per hectare. This resilience is attributed to its growth pattern; it starts as a rosette and develops a deep taproot, allowing it to access moisture from deeper soil layers.
 
 #### Local Delivery and Convenience
 
