@@ -14,6 +14,6 @@ Camelina is a resilient oilseed crop that thrives in well-drained, moderately fe
 
 - **Temperature**: Optimal growth between 10°C and 26°C (50°F–79°F).
 - **Rainfall**: Low to moderate rainfall; drought-tolerant once established. Does not tolerate waterlogging.
-- **Frost Tolerance**: Spring Biotypes can withstand light frosts, and are suitable for early spring planting, or summer plantings. Winter biotypes can withstand tempertures of well below freezing, similar to winter rye. However, in some climates winter kill has been experienced despite the same varitety surviing in much colder environments. The nature of cold hardiness is till under investigation. Forever green link
+- **Frost Tolerance**: Spring Biotypes can withstand light frosts, and are suitable for early spring planting, or summer plantings. Winter biotypes can withstand tempertures of well below freezing -29C (-20F), similar to winter rye. However, in some climates winter kill has been experienced despite the same varitety surviing in much colder environments. The nature of cold hardiness is till under investigation. Forever green link
 - **Growing Season**: Short growing season of 85–100 days. Average growing degree days is 1200. 
 - **Drought Tolerance**: Camelina’s drought tolerance makes it suitable for semi-arid regions.
