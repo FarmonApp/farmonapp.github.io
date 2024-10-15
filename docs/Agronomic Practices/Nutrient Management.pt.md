@@ -1,3 +1,7 @@
+---
+title: Gestão de Nutrientes
+description: Aprenda sobre as práticas de gestão de nutrientes para o cultivo de camelina.
+---
 # Gestão de Nutrientes
 
 As necessidades de fertilização variam dependendo da cultura anterior. Após cereais, 40 kg/ha de nitrogênio são essenciais, enquanto após ervilhas, apenas 10 kg/ha podem ser necessários ou nenhuma fertilização.
