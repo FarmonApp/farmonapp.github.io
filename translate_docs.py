@@ -1,28 +1,36 @@
 import argparse
-import os
-from pathlib import Path
 import asyncio
+import os
+import sys
+from pathlib import Path
+
 import aiofiles
 from openai import AsyncAzureOpenAI
 
+# Read API key from environment variable
+api_key = os.environ.get("AZURE_OPENAI_API_KEY", "32a943563fed492397b60a760f12851d")
+if not api_key:
+    print("Error: The AZURE_OPENAI_API_KEY environment variable is not set.")
+    sys.exit(1)
+
 client = AsyncAzureOpenAI(
-    api_key="32a943563fed492397b60a760f12851d",
+    api_key=api_key,
     azure_endpoint="https://farmon-gpt.openai.azure.com/",
     api_version="2024-05-01-preview"
 )
 
-async def translate_file(md_file, language_code, language_name):
+async def translate_file(md_file, language_code, language_name, overwrite=False):
     # Skip files that are already in the target language
     if md_file.suffix == f".{language_code}.md":
         return f"Skipping {md_file} as it is already in the target language."
-
+    
     # Construct the translated file name
-    translated_file = md_file.with_name(f"{md_file.stem[:-3]}.{language_code}{md_file.suffix}")
-
-    # Skip if the translated file already exists
-    if translated_file.exists():
+    translated_file = md_file.with_name(md_file.name.replace('.en.md', f'.{language_code}.md'))
+    
+    # Skip if the translated file already exists and overwrite is False
+    if translated_file.exists() and not overwrite:
         return f"Skipping {md_file} as {translated_file} already exists."
-
+    
     # Read the original Markdown content
     async with aiofiles.open(md_file, 'r', encoding='utf-8') as f:
         content = await f.read()
@@ -59,15 +67,20 @@ async def translate_file(md_file, language_code, language_name):
     except Exception as e:
         return f"An error occurred while translating {md_file}: {e}"
 
-async def main(language_code, language_name):
-    # Define the path to the 'docs' directory
-    docs_path = Path('docs')
+async def main(overwrite, languages, folder):
+    # Define the path to the specified folder
+    docs_path = Path(folder)
 
-    # Iterate over all Markdown files in 'docs' and subdirectories
+    if not docs_path.exists():
+        print(f"Error: The specified folder '{folder}' does not exist.")
+        sys.exit(1)
+
+    # Iterate over all Markdown files in the specified folder and subdirectories
     files = list(docs_path.glob(pattern='**/*.en.md'))
     
     tasks = [
-        translate_file(md_file, language_code, language_name)
+        translate_file(md_file, language_code=code, language_name=name, overwrite=overwrite)
+        for code, name in languages
         for md_file in files
     ]
     
@@ -78,9 +91,20 @@ async def main(language_code, language_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Translate Markdown files using Azure OpenAI.')
-    parser.add_argument('--language-code', required=True, help='Target language code (e.g., "fr" for French)')
-    parser.add_argument('--language-name', required=True, help='Target language name (e.g., "French")')
+    parser.add_argument('--language', action='append', required=True, help='Target language code and name in format code:name (e.g., "fr:French")')
+    parser.add_argument('--overwrite', action='store_true', help='Overwrite existing translated files')
+    parser.add_argument('--folder', default='docs', help='Path to the folder containing markdown files (default: "docs")')
 
     args = parser.parse_args()
 
-    asyncio.run(main(language_code=args.language_code, language_name=args.language_name))
+    # Parse languages
+    languages = []
+    for lang in args.language:
+        if ':' in lang:
+            code, name = lang.split(':', 1)
+            languages.append((code.strip(), name.strip()))
+        else:
+            print(f"Invalid language format: {lang}")
+            sys.exit(1)
+
+    asyncio.run(main(overwrite=args.overwrite, languages=languages, folder=args.folder))
