@@ -1,3 +1,7 @@
+---
+title: Climate and Soil Requirements
+description: Learn about the climate and soil requirements for growing camelina
+---
 # Climate and Soil Requirements
 
 Camelina is a resilient oilseed crop that thrives in well-drained, moderately fertile soils and prefers cool, semi-arid climates, making it ideal for regions with temperate conditions and marginal soils.

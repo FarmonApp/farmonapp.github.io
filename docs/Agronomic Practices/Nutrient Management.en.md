@@ -1,3 +1,7 @@
+---
+title: Nutrient Management
+description: Learn about the nutrient management practices for growing camelina.
+---
 # Nutrient Management
 
 Fertilization needs vary depending on the previous crop. After cereals, 40 kg/ha nitrogen is essential, while after peas, only 10 kg/ha may be needed or no fertilization at all.

@@ -1,3 +1,7 @@
+---
+title: Water Management
+description: Learn how to manage water effectively to ensure optimal camelina growth and yield.
+---
 # Water Management
 
 While camelina is drought-tolerant, it benefits from light irrigation at key stages, such as post-sowing, rosette stage, and flowering, to optimize yield.

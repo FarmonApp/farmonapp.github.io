@@ -1,3 +1,7 @@
+---
+title: Soil Preparation
+description: Learn the best practices for preparing soil before planting camelina to ensure optimal growth and yield.
+---
 # Soil Preparation
 
 Direct sowing is preferred to conserve moisture, while shallow cultivation should only be done to maintain soil moisture. Over-cultivation should be avoided.

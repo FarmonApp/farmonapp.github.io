@@ -1,3 +1,7 @@
+---
+title: Why Grow Camelina?
+description: Discover the key benefits of growing camelina as a sustainable and profitable crop choice.
+---
 # Why Grow Camelina?
 Camelina is an advantageous crop choice for farmers seeking profitable, sustainable, and resilient agricultural options, especially in dryland and challenging climates. It offers high demand as a feedstock for sustainable aviation fuel (SAF) production, requires no new equipment investments, and can enhance soil health within crop rotations.
 

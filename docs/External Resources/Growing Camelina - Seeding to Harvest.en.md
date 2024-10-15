@@ -1,3 +1,7 @@
+---
+title: Growing Camelina on the Farm - Seeding to Harvest
+description: An in-depth guide to camelina production in 2023, covering the cultivation process, benefits, experiences, and insights from Sustainable Oils.
+---
 
 # Growing Camelina on the Farm - Seeding to Harvest
 

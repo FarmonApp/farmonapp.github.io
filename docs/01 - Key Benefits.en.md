@@ -1,3 +1,7 @@
+---
+title: Key Benefits
+description: Key benefits of growing camelina as an intermediate crop
+---
 # Key Benefits
 
 ## Agricultural and Environmental Benefits

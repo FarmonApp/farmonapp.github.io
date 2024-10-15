@@ -1,3 +1,7 @@
+---
+title: Drying & Storage
+description: Learn how to dry and store camelina seeds to ensure quality and prevent spoilage.
+---
 # Drying & Storage
 
 Ensure harvested camelina seeds have less than 9% moisture content to avoid spoilage during storage. Clean and dry seeds promptly after harvest.

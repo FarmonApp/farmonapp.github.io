@@ -21,7 +21,9 @@ theme:
     - search.share
     - navigation.footer
 plugins:
-  - social
+  - social:
+      cards_layout_options:
+        background_color: "#34312c"
   - search
   - i18n:
       docs_structure: suffix

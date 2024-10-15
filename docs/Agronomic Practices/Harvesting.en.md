@@ -1,3 +1,7 @@
+---
+title: Harvesting
+description: Learn about the best practices for harvesting camelina, including timing, techniques, and post-harvest handling.
+---
 # Harvesting
 
 ## Harvesting Techniques

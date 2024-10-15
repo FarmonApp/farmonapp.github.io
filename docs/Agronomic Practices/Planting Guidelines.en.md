@@ -1,3 +1,7 @@
+---
+title: Planting Guidelines
+description: Learn the best practices for planting camelina to ensure optimal growth and yield.
+---
 # Planting Guidelines
 
 Ideally, sow camelina within 24-48 hours of harvesting the previous crop, with a seeding rate of 8 kg/ha and a depth of 3 cm in direct sowing conditions.

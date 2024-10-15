@@ -1,3 +1,7 @@
+---
+title: Mistakes to Avoid
+description: Common mistakes to avoid when growing camelina
+---
 # Mistakes to Avoid
 
 - **Inadequate Fertilization**: Under-fertilization, especially after cereal crops, will limit camelina’s potential. Make sure to apply nitrogen as required to support early growth.

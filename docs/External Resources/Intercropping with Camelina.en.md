@@ -1,3 +1,7 @@
+---
+title: Intercropping with Camelina
+description: Learn about the benefits of intercropping camelina with other crops and how it can enhance soil health and productivity.
+---
 # Exploring Camelina: A New Perspective on Renewable Diesel Production
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

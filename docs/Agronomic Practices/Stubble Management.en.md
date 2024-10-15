@@ -1,3 +1,7 @@
+---
+title: Stubble Management
+description: Learn how to manage stubble effectively to ensure optimal camelina growth and yield.
+---
 # Stubble Management
 
 Proper stubble management is crucial for camelina to ensure good seed-to-soil contact and to prevent nitrogen deficiency. Remove or manage barley straw effectively.

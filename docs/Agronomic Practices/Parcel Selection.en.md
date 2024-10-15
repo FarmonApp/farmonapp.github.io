@@ -1,3 +1,7 @@
+---
+title: Parcel Selection
+description: Learn how to select the right parcels for camelina cultivation to ensure optimal growth and yield.
+---
 # Parcel Selection
 
 Camelina should be planted after winter cereals or peas on parcels that are free of weeds and herbicide residues, ensuring optimal growth and yield.

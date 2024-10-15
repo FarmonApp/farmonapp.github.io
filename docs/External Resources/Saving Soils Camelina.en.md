@@ -1,3 +1,7 @@
+---
+title: Saving Soils Camelina
+description: Learn about the Saving Soils Camelina project and its findings on growing camelina in varying conditions.
+---
 # Saving Soils Camelina - '24 Plot Shot 12
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

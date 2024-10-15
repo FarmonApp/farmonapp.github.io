@@ -1,3 +1,7 @@
+---
+title: Pests and Disease Control
+description: Learn how to control pests and diseases in camelina cultivation to ensure optimal growth and yield.
+---
 # Pests and Disease Control
 
 Camelina is highly resistant to pests and diseases. However, late-stage mildew can occur, though it typically doesn’t affect yields.
