@@ -7,7 +7,7 @@ theme:
   custom_dir: overrides
   palette: 
     primary: custom
-    accent: custom
+    accent: deep orange
   logo: assets/logo.svg
   favicon: images/favicon.png
   features:
