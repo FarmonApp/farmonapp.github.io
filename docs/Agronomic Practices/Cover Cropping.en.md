@@ -1,3 +1,8 @@
+---
+title: Cover Cropping with Camelina
+description: Camelina can be grown as a cover crop either alone or more commonly as part of a cover crop mix. Mostly winter camelina is used as a cover crop for a fall to spring cover, but spring camelina can also be used depending on climate and seed availablity.
+---
+
 # Cover Cropping with Camelina
 
 Camelina can be grown as a cover crop either alone or more commonly as part of a cover crop mix. Mostly winter camelina is used as a cover crop for a fall to spring cover, but spring camelina can also be used depending on climate and seed availablity.
