@@ -13,6 +13,6 @@ Camelina can be grown as a cover crop either alone or more commonly as part of a
 
 ## Considerations
 
--**Establishment and Winter Kill**: Camelina as a cover crop needs to be seeded early enough to establish but not so early that it bolts before dorminacy in the winter. Varying amounts of winter kill have been reproted across many studies. Climate does seem to play a role and warming and cooling is indicated as source of winter kill. 
--**Potential Weed**: There has been little reports of Camelina establishing as a weed but the possiblity does exist due to its early bloom time and seed maturation. So this does need to be monitored.
--**Termination**: Camelina has been sucessfully terminated with various chemicals used for cover crop termination. MEchanical methods can also be used. There is indication that brassicas can be terminated with a roller crimper if done post flowering with little regrowth, so camelina could work in a no-till situation.
+- **Establishment and Winter Kill**: Camelina as a cover crop needs to be seeded early enough to establish but not so early that it bolts before dorminacy in the winter. Varying amounts of winter kill have been reproted across many studies. Climate does seem to play a role and warming and cooling is indicated as source of winter kill. 
+- **Potential Weed**: There has been little reports of Camelina establishing as a weed but the possiblity does exist due to its early bloom time and seed maturation. So this does need to be monitored.
+- **Termination**: Camelina has been sucessfully terminated with various chemicals used for cover crop termination. MEchanical methods can also be used. There is indication that brassicas can be terminated with a roller crimper if done post flowering with little regrowth, so camelina could work in a no-till situation.
