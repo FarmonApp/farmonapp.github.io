@@ -34,3 +34,10 @@ Clean and dry camelina seeds immediately after harvest to reduce moisture and im
 
 - **Cleaning**: If the harvest contains green plant material or high moisture levels, clean the seeds as soon as possible—preferably within 24 hours.
 - **Drying**: Dry the seeds to less than 9% moisture to prevent spoilage. Seeds stored at higher moisture levels are prone to mold and deterioration. Drying should be done immediately if moisture exceeds 9%.
+
+## Drying & Storage
+
+Ensure harvested camelina seeds have less than 9% moisture content to avoid spoilage during storage. Clean and dry seeds promptly after harvest.
+
+- **Moisture**: For safe long-term storage, seed moisture content should be below 9%. If necessary, dry seeds immediately after harvest.
+- **Storage**: Store camelina in a well-ventilated, dry environment to prevent mold or spoilage. Seed cleaning should be done as soon as possible to reduce moisture levels and remove impurities.

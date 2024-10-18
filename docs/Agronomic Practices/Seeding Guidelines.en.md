@@ -27,3 +27,28 @@ Seeding timing is one of the most context dependent choices to be made, typicall
 
 - **Spring Camelina**: Seeding in the spring should happen at the first chance that winter annual weeds can be terminated and the soil can be worked for seeding. The cold hardy nature of Camelina allows for very early seeding. Spring Camelina can be seeded in the fall in warmer Mediterranean climates, typically by mid to late November at the latest climate dependent. 
 
+## Parcel Selection
+
+When planting camelina it is important to consider the crops and herbicide residue that have been used previously on the field. Likewise it is wise to consider the beneficial effects of the crop on the field for the proceeding crop. 
+
+- **Previous Crops**: It is important to consider the potential weeds in the field from the previous crop of particular concern are grass species. 
+- **Herbicide Awareness**: Pay attention to herbicide residues, especially ALS and PDS herbicides from previous crops, which can affect camelina growth in dry conditions. Some herbicides can persist in the soil, so consult local experts to verify if the land is safe for camelina.
+- **Weed Control**: Choose parcels with minimal weed pressure, especially grasses. Ensure effective weed management before sowing, as camelina competes poorly with weeds in its early stages.
+- **Proceeding crop**: The biofumigant effect of camelina can be used to increase yield in crops such as corn, sorghum, or other crops where control of soil fungus and bacteria can be helpful.
+
+
+## Stubble Management
+
+Proper stubble management is crucial for camelina to ensure good seed-to-soil contact and to prevent nitrogen deficiency. Remove or manage barley straw effectively.
+
+- **Preceding**: It’s crucial to remove straw from previous crops to avoid nitrogen competition and to ensure proper seed-to-soil contact.
+- **Stubble Height**: For direct sowing, harvest the previous crop as high as possible, leaving the stubble standing.
+- **Straw Management**: Evenly distribute light straw or chaff that may obstruct sowing. In the case of disk drilling, avoid it completely and opt for stubble plowing or shallow tillage.
+
+## Soil Preparation
+
+Direct sowing is preferred to conserve moisture, while shallow cultivation should only be done to maintain soil moisture. Over-cultivation should be avoided.
+
+- **Direct Sowing**: Strongly recommended to preserve soil moisture, especially in dry conditions. Direct sowing reduces soil disturbance and helps maintain its structure.
+- **Shallow Cultivation**: If required, limit to a maximum of 2-3 cm depth to prevent unnecessary moisture loss and maintain a favorable seedbed.
+- **Moisture Conservation**: Camelina performs best when soil moisture is conserved. Avoid deep tillage that could deplete moisture reserves.
