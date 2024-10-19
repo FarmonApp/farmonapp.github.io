@@ -42,7 +42,10 @@ Proper stubble management is crucial for camelina to ensure good seed-to-soil co
 
 ## Broadcast and Ariel Seeding rates
 
-Camelina can be broadcast and there are examples of aireal seeding by drone, though no recommended rates exist for drone seeding. The lightweight seed means factors like height of the broadcaster and wind conditions must be considered for good coverage. Light incorporation is recommended. Typical rates for broadcasting are around 12-15 kg/ha, though more research on this is needed, however some have shown equal or better results, so it is worth considering due to broadcast usually being lower cost. [Schillenger 2012] (https//:doi.org/10.1016/j.fcr.2012.02.019).
+Camelina can be broadcast and it has been done successfully. The lightweight seed means factors like height of the broadcaster and wind conditions must be considered for good coverage.
+
+- **Drone Seeding**: and there are examples of aireal seeding by drone, though no recommended rates exist for drone seeding.  Light incorporation is recommended. 
+- **Seeding Rate**: Typical rates for broadcasting are around 12-15 kg/ha, though more research on this is needed, however some have shown equal or better results, so it is worth considering due to broadcast usually being lower cost. [Schillenger 2012] (https//:doi.org/10.1016/j.fcr.2012.02.019).
 
 ## Seeding Timing
 
