@@ -4,7 +4,7 @@ The selection of the right variety for the right situation is critcal for succes
 
 ## Winter Camelina
 
-Winter camelina is more coimmonly available in North America where the colder climate and use as a cover crop has increased seed availablity of winter varieties. 
+Winter camelina have the ability to survive cold temperatures by going dormant. They do require a certain amount of chilling hours, though more research is needed. If you plan to plant in the fall and you are in the norther climates you must use a winter variety. It tends to be more coimmonly available in North America where the colder climate and use as a cover crop has increased seed availablity of winter varieties. 
 
 - **Varieties**: 
 Bison, 2019, Univ. Minn., Standout winter variety for cold tolerance, 
@@ -12,13 +12,13 @@ Britanny, 2021, Sustainable Oils LLC, cold tolerant and high oil yield.
 Blackmore, 2022, Univ. Minn., 
 Colden, 2016, Univ. Minn. and USDA ARS, Improved winter tolerance and seed yield. 
 MT-14, 2014, Montana State Univ., Bred for extreme cold tolerance. 
-HPX-WG4-1’ (WG4), Kansas State University and USDA ARS, bred for consistent yield and cold hardiness.
-
+HPX-WG4-1’ (WG4), Kansas State University and USDA ARS, bred for consistent yield and cold hardiness, part of a hybrid series.
+HPXWG1-35’ (WG1), Kansas State University and USDA ARS, bred in a similar way as WG4. 
 
 
 ## Spring Camelina
 
-Spring camelina is more commonly available in Europe due to its resurgence in use in southern Europe. 
+Spring camelina are varieties that do not have a need for a certain about of hours of cold, and will be killed by extreme cold temperatures in the winter. 
 
 - **Varieties**:
 Omega, Sustainable Oils LLC, breed for high oil content and adpatability to a range of environments.
