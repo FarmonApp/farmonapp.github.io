@@ -10,7 +10,7 @@ Camelina is a short season, drought tolerant crop that has both winter and sprin
 
 ## Double Cropping
 
-- **Winter Camelina**: Camelina can be fit into rotations in seasons when fields are often fallow. Winter camelina can be planted in the fall in cold climates and harvested in late spring or early summer. It can then be followed by other short season summer crops such as millet, sorghum, sunflowers, buckwheat or short season corn. It has also been used in rotation where wheat/fallow occurs and can replace the fallow, thereby giving farmers another source of income and diversity in their roation. 
+- **Winter Camelina**: Camelina can be fit into rotations in seasons when fields are often fallow. Winter camelina can be planted in the fall in cold climates and harvested in late spring or early summer. It can then be followed by other short season summer crops such as millets, sorghum, sunflowers, buckwheat or short season corn. It has also been used in rotation where wheat/fallow occurs and can replace the fallow, thereby giving farmers another source of income and diversity in their roation, however this has reduced wheat yeilds the following year it is still economically advantagious. 
 - **Spring Camelina**: There is often time for caemlina to be planted after a cereal crop and harvested in fall where the season is long enough, and rain or irrigation is available for germination. 
 
 ## Relay Cropping

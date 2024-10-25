@@ -12,7 +12,7 @@ Fertilization needs vary depending on the previous crop. After cereals, 40 kg/ha
 
 # Water Management
 
-While camelina is drought-tolerant, it benefits from light irrigation at key stages, such as post-sowing, rosette stage, and flowering, to optimize yield.
+While camelina is drought-tolerant, it benefits from light irrigation at key stages, such as post-sowing, rosette stage, and flowering, to optimize yield. Camelina does not like to be waterlogged so plan to plant in fields that do no have this issue.
 
 
 - **Drought Tolerance**: Camelina can thrive with little water, but strategic irrigation boosts yields.
