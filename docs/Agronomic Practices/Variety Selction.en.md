@@ -14,7 +14,9 @@ Colden, 2016, Univ. Minn. and USDA ARS, Improved winter tolerance and seed yield
 MT-14, 2014, Montana State Univ., Bred for extreme cold tolerance. 
 HPX-WG4-1’ (WG4), Kansas State University and USDA ARS, bred for consistent yield and cold hardiness, part of a hybrid series.
 HPXWG1-35’ (WG1), Kansas State University and USDA ARS, bred in a similar way as WG4. 
+Joelle, 2009, Breed for it high oil content and growing in a diversity of environments, has been planted as a spring type also.
 
+- **Other Winter Varieties**: Maczuga(POL), Zolta(POL), Pzybrodzka(POL), Luna(POL), 
 
 ## Spring Camelina
 
@@ -23,10 +25,13 @@ Spring camelina are varieties that do not have a need for a certain about of hou
 - **Varieties**:
 Omega, Sustainable Oils LLC, breed for high oil content and adpatability to a range of environments.
 Midas, 2013, Montana State University, breed for high oil content and particularly high adaptability to dryland conditions.
-Joelle, 2009, Breed for it high oil content and growing in a diversity of environments, can be planted as a spring type also.
-Ligena, 1990's, Release from Europe as an older traditional variety.
-Calena, 1990's release from Europe, as an older traditional variety.
+Joelle, 2009, Breed for it high oil content and growing in a diversity of environments, shoes up as a winter type in some research too.
+Ligena, 1990's, release from Germany, an older traditional variety.
+Calena, 1990's release from Germany, an older traditional variety.
 Celine, Innovafeed, high adpatablity for different climates and oil production. 
+
+- **Other Spring Varieties**: Robinson(USA), Blaine Creek(USA), Gold of Pleasure(?), Lindo(?), CS005(CAN), CS006(CAN), Urkrajinskij(RUS), Soledo(?), Morgesonne(AUS), Zaraja Socialisma(RUS), Vinimik 17(?), Suneson(USA), CO54-97(USA), CO56(USA), Boa(USA), Pronghorn(USA), Columbia(?), Cheyenne(USA), Shoshone(USA), Borowska(POL), Grodziska(POL), Sortandinskij(POL), Omskij Mestnyj(RUS), Sortandinkij(RUS), Zavolzkij(RUS), Kirgizskij(KGZ)
+
 
 ## Breeding
 
