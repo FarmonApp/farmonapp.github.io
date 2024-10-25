@@ -1,6 +1,6 @@
 ---
 title: Weeds, Pests, and Disease Control
-description: Learn how to control weeds, pests, and diseases in camelina cultivation to ensure optimal growth and yield.
+description: The issues to controling weeds, pests, and diseases in camelina cultivation to ensure optimal growth and yield.
 ---
 # Weed Management
 

@@ -1,10 +1,10 @@
 # Variety Selection
 
-The selection of the right variety for the right situation is critcal for success. However, often seed availability can create a bottleneck for producers, espeically those looking for larger quantities.
+The selection of the right variety for the right situation is critcal for success. However, often seed availability can create a bottleneck for producers, espeically those looking for larger quantities. Knowing the difference between winter and spring varieties of camelina is also important, below we have listed some of the many available varieties common in the marketplace and research. There is much work being done and new varieties being released, some by public sources but many by private companies.
 
 ## Winter Camelina
 
-Winter camelina have the ability to survive cold temperatures by going dormant. They do require a certain amount of chilling hours, though more research is needed. If you plan to plant in the fall and you are in the norther climates you must use a winter variety. It tends to be more coimmonly available in North America where the colder climate and use as a cover crop has increased seed availablity of winter varieties. 
+Winter camelina varieties have the ability to survive cold temperatures by going dormant. They do require a certain amount of chilling hours, though more research is needed. If you plant in the fall and are in the norther climates you must use a winter variety. It tends to be more commonly available in North America where the colder climate, use as a cover crop, and increased production for SAF has increased seed availablity of winter varieties. 
 
 - **Varieties**: 
 Bison, 2019, Univ. Minn., Standout winter variety for cold tolerance, 
@@ -30,4 +30,4 @@ Celine, Innovafeed, high adpatablity for different climates and oil production.
 
 ## Breeding
 
-There is much breeding work to be done on camelina. There are several common goals of breeding projects such as increased seed size, increased oil, oil quality, and shorter days to maturity. Public breeding and private breeding are both occuring. Some of the public breeding is geared towards better winter adaptability for cover crops mixes and adaptability to various climates. While private breeding projects tend to focus on oil productivity, oil content, shorter seasons, and larger seeds. 
+There is much breeding work to be done on camelina, and there are many working on it both public and private. There are several common goals of breeding projects such as increased seed size, increased oil, oil quality, and shorter days to maturity. Some of the public breeding is geared towards better winter adaptability for cover crops mixes and adaptability to various climates. While private breeding projects tend to focus on oil productivity, oil content, shorter seasons, and larger seeds. There have been contradictory evidence that with an increase of seed size the quality of oil decreases. The ability to improve camelina as a crop is large with both modern breeding techniques and CRISPR Cas methodologies being employeed. 
