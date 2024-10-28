@@ -4,7 +4,7 @@ description: Aprenda a gerenciar a água de forma eficaz para garantir o crescim
 ---
 # Gestão da Água
 
-Embora a camelina seja tolerante à seca, ela se beneficia de uma leve irrigação em estágios chave, como após a semeadura, estágio de roseta e floração, para otimizar o rendimento.
+Embora a camelina seja tolerante à seca, ela se beneficia de uma irrigação leve em estágios-chave, como após a semeadura, estágio de roseta e floração, para otimizar o rendimento.
 
 - **Tolerância à Seca**: A camelina pode prosperar com pouca água, mas a irrigação estratégica aumenta os rendimentos.
 - **Momento da Irrigação**:
