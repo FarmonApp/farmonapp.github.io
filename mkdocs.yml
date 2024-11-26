@@ -44,6 +44,9 @@ plugins:
         - locale: nl
           name: Nederlands
           build: true
+        - locale: de
+          name: Deutsch
+          build: true
 extra:
   analytics:
     provider: google
