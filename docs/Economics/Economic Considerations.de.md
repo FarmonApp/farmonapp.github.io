@@ -1,6 +1,6 @@
 ---
 title: Wirtschaftliche Überlegungen
-description: Erfahren Sie mehr über die wirtschaftlichen Überlegungen beim Anbau von Camelina.
+description: Erfahren Sie mehr über die wirtschaftlichen Überlegungen beim Anbau von Leindotter.
 ---
 # Wirtschaftliche Überlegungen
 

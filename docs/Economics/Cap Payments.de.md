@@ -1,6 +1,6 @@
 ---
 title: GAP-Zahlungen
-description: Erfahren Sie mehr über die Zahlungen der Gemeinsamen Agrarpolitik (GAP) und wie sie Camelina-Anbauer begünstigen können.
+description: Erfahren Sie mehr über die Zahlungen der Gemeinsamen Agrarpolitik (GAP) und wie sie Leindotter-Anbauer begünstigen können.
 ---
 # GAP-Zahlungen
 

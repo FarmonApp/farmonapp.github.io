@@ -1,6 +1,6 @@
 ---
 title: Nachhaltigkeit und Umweltauswirkungen
-description: Erfahren Sie mehr über die Nachhaltigkeit und die Umweltauswirkungen des Anbaus von Camelina.
+description: Erfahren Sie mehr über die Nachhaltigkeit und die Umweltauswirkungen des Anbaus von Leindotter.
 ---
 # Nachhaltigkeit und Umweltauswirkungen
 
